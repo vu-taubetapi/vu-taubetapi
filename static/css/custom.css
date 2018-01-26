@@ -70,7 +70,11 @@ body {
           color: white; }
         .btn-outline-primary:active, .btn-outline-primary:focus {
           box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important; }
-  
+
+          /* Muted Text */
+          .text-muted {
+            color: #dcdddd !important;
+          }
   ::-moz-selection {
     background: #fed136;
     text-shadow: none; }

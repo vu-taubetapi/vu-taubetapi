@@ -36,7 +36,8 @@ export default () => (
                                     </div>
                                     <div className="timeline-body">
                                         <p className="text-muted"><b>Date:</b> Saturday, February 3<br />
-                                            <b>Venue:</b> Featheringill Hall 129</p>
+                                            <b>Venue:</b> Featheringill Hall 129<br />
+                                            <b>Registration:</b> <a href="http://goo.gl/u2bket" target="_blank">goo.gl/u2bket</a></p>
                                     </div>
                                 </div>
                             </li>

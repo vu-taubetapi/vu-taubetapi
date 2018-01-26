@@ -15,9 +15,9 @@ export default () => (
         </div>
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <p className="large text-muted text-justify"><b>Tau Beta Pi</b> is universally recognized as the <b>premier engineering honor society</b>. It is the <b>oldest</b>, <b>largest</b>, and <b>most prestigious</b> in all engineering fields.</p>
+            <p className="large text-muted text-justify"><b class="gold">Tau Beta Pi</b> is universally recognized as the <b class="gold">premier engineering honor society</b>. It is the <b class="gold">oldest</b>, <b class="gold">largest</b>, and <b class="gold">most prestigious</b> in all engineering fields.</p>
 
-            <p className="large text-muted text-justify">The Tennessee Beta chapter of Tau Beta Pi at Vanderbilt University provides the opportunity for the top students in engineering to collaborate, socialize, serve the community, discuss problems, and form friendships.</p>
+            <p className="large text-muted text-justify">The Tennessee Beta Chapter of Tau Beta Pi at Vanderbilt University provides the opportunity for the top students in engineering to collaborate, socialize, serve the community, discuss problems, and form friendships.</p>
 
             <p className="large text-muted text-justify">Within the busy schedules of engineering students at Vanderbilt, it can be difficult to find other students with your drive to succeed, interests in engineering, collegiate past success, and moral integrity. Tau Beta Pi provides a venue by which these top students can collaborate and work together, while also integrating them into the national Tau Beta Pi network so that they can have career opportunities with alumni. Tau Beta Pi is an enormous national honor society, providing opportunities and networking with many famous and successful alumni.</p>
 

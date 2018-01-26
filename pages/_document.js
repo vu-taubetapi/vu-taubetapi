@@ -11,7 +11,7 @@ export default class MyDocument extends Document {
 
     render() {
         return (
-            <html>
+            <html lang="en-US">
                 <Head>
                     <link rel="shortcut icon" href="/static/img/favicon.ico" />
                     <link href="/static/css/bootstrap.min.css" rel="stylesheet" />
@@ -25,7 +25,7 @@ export default class MyDocument extends Document {
                     <script src="/static/js/bootstrap.min.js" />
                     <script src="/static/js/custom.min.js" />
                 </Head>
-                <body className="custom_class">
+                <body>
                     {this.props.customValue}
                     <Main />
                     <NextScript />
