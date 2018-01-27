@@ -1,7 +1,7 @@
 {
-  "name": "tbp",
+  "name": "vu-taubetapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vanderbilt Tau Beta Pi Website",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -9,8 +9,7 @@
     "export": "next export"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "next": "^4.2.3",
     "react": "^16.2.0",

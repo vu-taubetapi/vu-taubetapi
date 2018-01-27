@@ -38,7 +38,7 @@ export default () => (
 
                             If you have any questions, feel free to contact Kamal (<a href="mailto:kamal.m.kamal.azmi@vanderbilt.edu">kamal.m.kamal.azmi@vanderbilt.edu</a>) or Iliya (<a href="mailto:mohamad.i.mohamad.lokman@vanderbilt.edu">mohamad.i.mohamad.lokman@vanderbilt.edu</a>).<br /><br />
 
-                            -TBP Committee</p>
+                            <span class="gold">-TBP Committee</span></p>
                     </div>
                 </div>
             </div>
