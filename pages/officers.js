@@ -19,6 +19,13 @@ export default () => (
                             <img className="mx-auto rounded-circle" src="/static/img/officers/kamal.jpg" alt="Kamal Kamal Azmi" />
                             <h4 className="white">Kamal Kamal Azmi</h4>
                             <p className="text-muted">President</p>
+                            <ul className="list-inline social-buttons">
+                                <li className="list-inline-item">
+                                    <a href="mailto:kamal.m.kamal.azmi@vanderbilt.edu">
+                                        <i className="fa fa-envelope"></i>
+                                    </a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <div className="col-sm-6">
@@ -26,6 +33,13 @@ export default () => (
                             <img className="mx-auto rounded-circle" src="/static/img/officers/iliya.jpg" alt="Iliya Mohamad Lokman" />
                             <h4 className="white">Iliya Mohamad Lokman</h4>
                             <p className="text-muted">Vice President</p>
+                            <ul className="list-inline social-buttons">
+                                <li className="list-inline-item">
+                                    <a href="mailto:mohamad.i.mohamad.lokman@vanderbilt.edu">
+                                        <i className="fa fa-envelope"></i>
+                                    </a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>

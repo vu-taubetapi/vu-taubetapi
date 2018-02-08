@@ -15,7 +15,7 @@ export default class MyDocument extends Document {
                 <Head>
                     <link rel="shortcut icon" href="/static/img/favicon.ico" />
                     <link href="/static/css/bootstrap.min.css" rel="stylesheet" />
-                    <link href="/static/css/font-awesome.min.css" rel="stylesheet" />
+                    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
                     <link href="/static/css/custom.css" rel="stylesheet" />
                     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" />
                     <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" />

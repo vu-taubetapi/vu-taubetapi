@@ -15,7 +15,7 @@ export default () => (
         </div>
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <p className="large text-muted text-justify"><b class="gold">Tau Beta Pi</b> is universally recognized as the <b class="gold">premier engineering honor society</b>. It is the <b class="gold">oldest</b>, <b class="gold">largest</b>, and <b class="gold">most prestigious</b> in all engineering fields.</p>
+            <p className="large text-muted text-justify"><b className="gold">Tau Beta Pi</b> is universally recognized as the <b className="gold">premier engineering honor society</b>. It is the <b class="gold">oldest</b>, <b class="gold">largest</b>, and <b className="gold">most prestigious</b> in all engineering fields.</p>
 
             <p className="large text-muted text-justify">The Tennessee Beta Chapter of Tau Beta Pi at Vanderbilt University provides the opportunity for the top students in engineering to collaborate, socialize, serve the community, discuss problems, and form friendships.</p>
 

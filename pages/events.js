@@ -35,7 +35,9 @@ export default () => (
                                         </h4>
                                     </div>
                                     <div className="timeline-body">
-                                        <p className="text-muted"><b>Date:</b> Saturday, February 3<br />
+                                        <p className="text-muted">
+                                            <b>Date:</b> Saturday, February 3<br />
+                                            <b>Time:</b> 10AM - 2PM<br />
                                             <b>Venue:</b> Featheringill Hall 129<br />
                                             <b>Registration:</b> <a href="http://goo.gl/u2bket" target="_blank">goo.gl/u2bket</a></p>
                                     </div>
