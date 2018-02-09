@@ -14,6 +14,22 @@ export default () => (
                     </div>
                 </div>
                 <div className="row">
+                    <div className="col-sm-6 mx-auto">
+                        <div className="team-member">
+                            <img className="mx-auto rounded-circle" src="/static/img/officers/stammer.jpg" alt="Robert Stammer" />
+                            <h4 className="white">Robert Stammer</h4>
+                            <p className="text-muted">Adviser</p>
+                            <ul className="list-inline social-buttons">
+                                <li className="list-inline-item">
+                                    <a href="mailto:robert.stammer@vanderbilt.edu">
+                                        <i className="fa fa-envelope"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div className="row">
                     <div className="col-sm-6">
                         <div className="team-member">
                             <img className="mx-auto rounded-circle" src="/static/img/officers/kamal.jpg" alt="Kamal Kamal Azmi" />

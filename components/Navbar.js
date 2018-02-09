@@ -19,6 +19,11 @@ const Navbar = () => (
                         </Link>
                     </li>
                     <li className="nav-item">
+                        <Link href="/join">
+                            <a className="nav-link js-scroll-trigger">Join</a>
+                        </Link>
+                    </li>
+                    <li className="nav-item">
                         <Link href="/events">
                             <a className="nav-link js-scroll-trigger">Events</a>
                         </Link>
