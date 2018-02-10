@@ -13,6 +13,9 @@ export default class MyDocument extends Document {
         return (
             <html lang="en-US">
                 <Head>
+                    <link rel="manifest" href="/manifest.json" />
+                    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+                    <script src="/static/js/onesignal.js"></script>
                     <link rel="shortcut icon" href="/static/img/favicon.ico" />
                     <link href="/static/css/bootstrap.min.css" rel="stylesheet" />
                     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
