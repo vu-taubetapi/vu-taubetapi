@@ -15,7 +15,7 @@ export default () => (
                 </div>
                 <div className="row">
                     <div className="col-lg-8 mx-auto text-muted text-justify">
-                        <p className="text-center"><span className="gold">"Tau Beta Pi has an important role in encouraging and inspiring engineers everywhere."</span><br />— Jeff Bezos, Founder and CEO of <a href="https://en.wikipedia.org/wiki/Amazon_(company)" target="_blank">Amazon.com</a></p>
+                        <p className="text-center"><span className="gold">"Tau Beta Pi has an important role in encouraging and inspiring engineers everywhere."</span><br />— Jeff Bezos, Tau Bate, Founder and CEO of <a href="https://en.wikipedia.org/wiki/Amazon_(company)" target="_blank">Amazon.com</a></p>
 
                         <h2 className="section-heading text-uppercase gold">Benefits</h2>
 

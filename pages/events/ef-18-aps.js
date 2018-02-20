@@ -3,7 +3,7 @@ import Navbar from '../../components/Navbar'
 
 export default () => (
     <div>
-        <Header title="Events | Vanderbilt Tau Beta Pi" />
+        <Header title="Engineering Futures 2018 - Analytical Problem Solving | Vanderbilt Tau Beta Pi" />
         <Navbar />
         <section id="events">
             <div className="container">

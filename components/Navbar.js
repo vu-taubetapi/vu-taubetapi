@@ -29,6 +29,9 @@ const Navbar = () => (
                         </Link>
                     </li>
                     <li className="nav-item">
+                        <a className="nav-link js-scroll-trigger" href="https://www.flickr.com/photos/155535680@N02/albums" target="_blank">Gallery</a>
+                    </li>
+                    <li className="nav-item">
                         <Link href="/members">
                             <a className="nav-link js-scroll-trigger">Members</a>
                         </Link>
