@@ -25,11 +25,6 @@ export default [
         "class": 2018
     },
     {
-        "name": "Gabriel Darmon",
-        "major": "Mechanical Engineering",
-        "class": 2018
-    },
-    {
         "name": "Samantha Simon",
         "major": "Engineering Science",
         "class": 2018
