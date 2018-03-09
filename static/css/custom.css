@@ -146,7 +146,7 @@ body {
   header.masthead {
     text-align: center;
     color: white;
-    background-image: url("../img/tbp-bg.jpg");
+    background-image: url("https://vu-taubetapi.github.io/static/img/tbp-bg.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;

@@ -16,7 +16,7 @@ export default () => (
                 <div className="row">
                     <div className="col-sm-6 mx-auto">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="/static/img/officers/stammer.jpg" alt="Robert Stammer" />
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/stammer.jpg" alt="Robert Stammer" />
                             <h4 className="white">Robert Stammer</h4>
                             <p className="text-muted">Adviser</p>
                             <ul className="list-inline social-buttons">
@@ -32,7 +32,7 @@ export default () => (
                 <div className="row">
                     <div className="col-sm-6">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="/static/img/officers/kamal.jpg" alt="Kamal Kamal Azmi" />
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/kamal.jpg" alt="Kamal Kamal Azmi" />
                             <h4 className="white">Kamal Kamal Azmi</h4>
                             <p className="text-muted">President</p>
                             <ul className="list-inline social-buttons">
@@ -46,7 +46,7 @@ export default () => (
                     </div>
                     <div className="col-sm-6">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="/static/img/officers/iliya.jpg" alt="Iliya Mohamad Lokman" />
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/iliya.jpg" alt="Iliya Mohamad Lokman" />
                             <h4 className="white">Iliya Mohamad Lokman</h4>
                             <p className="text-muted">Vice President</p>
                             <ul className="list-inline social-buttons">
@@ -62,28 +62,28 @@ export default () => (
                 <div className="row">
                     <div className="col-sm-3">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="/static/img/officers/putri.jpg" alt="Putri Desmawardi" />
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/putri.jpg" alt="Putri Desmawardi" />
                             <h4 className="white">Putri Desmawardi</h4>
                             <p className="text-muted">Recording Secretary</p>
                         </div>
                     </div>
                     <div className="col-sm-3">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="/static/img/officers/kamalia.jpg" alt="Kamalia Hisham" />
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/kamalia.jpg" alt="Kamalia Hisham" />
                             <h4 className="white">Kamalia Hisham</h4>
                             <p className="text-muted">Corresponding Secretary</p>
                         </div>
                     </div>
                     <div className="col-sm-3">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="/static/img/officers/imran.jpg" alt="Imran Anoar" />
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/imran.jpg" alt="Imran Anoar" />
                             <h4 className="white">Imran Anoar</h4>
                             <p className="text-muted">Treasurer (I)</p>
                         </div>
                     </div>
                     <div className="col-sm-3">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="/static/img/officers/que.jpg" alt="Faruq Qawiem" />
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/que.jpg" alt="Faruq Qawiem" />
                             <h4 className="white">Faruq Qawiem</h4>
                             <p className="text-muted">Treasurer (II)</p>
                         </div>
