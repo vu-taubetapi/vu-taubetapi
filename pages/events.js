@@ -26,17 +26,15 @@ export default () => (
                                 <div className="timeline-panel">
                                     <div className="timeline-heading white">
                                         <h4 className="subheading">
-                                            <Link href="/events">
-                                                <a>
-                                                    Bent Polishing
-                                                </a>
-                                            </Link>
+                                            <a href="https://www.flickr.com/photos/155535680@N02/albums/72157694601624075" target="_blank">
+                                                Bent Polishing
+                                            </a>
                                         </h4>
                                     </div>
                                     <div className="timeline-body">
                                         <p className="text-muted">
                                             <b>Date:</b> Saturday, March 17<br />
-                                            <b>Time:</b> 9AM - 10AM<br />
+                                            <b>Time:</b> 10AM - 12PM<br />
                                             <b>Venue:</b> FGH Entrance<br />
                                         </p>
                                     </div>
@@ -49,11 +47,9 @@ export default () => (
                                 <div className="timeline-panel">
                                     <div className="timeline-heading white">
                                         <h4 className="subheading">
-                                            <Link href="/events">
-                                                <a>
-                                                    Tau Beta Pi Day
-                                                </a>
-                                            </Link>
+                                            <a href="https://www.flickr.com/photos/155535680@N02/albums/72157664746925197" target="_blank">
+                                                Tau Beta Pi Day
+                                            </a>
                                         </h4>
                                     </div>
                                     <div className="timeline-body">
