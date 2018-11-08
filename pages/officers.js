@@ -32,12 +32,12 @@ export default () => (
                 <div className="row">
                     <div className="col-sm-6">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/kamal.jpg" alt="Kamal Kamal Azmi" />
-                            <h4 className="white">Kamal Kamal Azmi</h4>
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/kamal.jpg" alt="Irfan Sabri" />
+                            <h4 className="white">Irfan Sabri</h4>
                             <p className="text-muted">President</p>
                             <ul className="list-inline social-buttons">
                                 <li className="list-inline-item">
-                                    <a href="mailto:kamal.m.kamal.azmi@vanderbilt.edu">
+                                    <a href="mailto:irfan.sabri.bin.mohd.sabri@vanderbilt.edu">
                                         <i className="fa fa-envelope"></i>
                                     </a>
                                 </li>
@@ -46,12 +46,12 @@ export default () => (
                     </div>
                     <div className="col-sm-6">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/iliya.jpg" alt="Iliya Mohamad Lokman" />
-                            <h4 className="white">Iliya Mohamad Lokman</h4>
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/masturina.jpg" alt="Masturina Sahira Sukri" />
+                            <h4 className="white">Masturina Sahira Sukri</h4>
                             <p className="text-muted">Vice President</p>
                             <ul className="list-inline social-buttons">
                                 <li className="list-inline-item">
-                                    <a href="mailto:mohamad.i.mohamad.lokman@vanderbilt.edu">
+                                    <a href="mailto:masturina.s.sukri@vanderbilt.edu">
                                         <i className="fa fa-envelope"></i>
                                     </a>
                                 </li>
@@ -62,30 +62,9 @@ export default () => (
                 <div className="row">
                     <div className="col-sm-3">
                         <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/putri.jpg" alt="Putri Desmawardi" />
-                            <h4 className="white">Putri Desmawardi</h4>
-                            <p className="text-muted">Recording Secretary</p>
-                        </div>
-                    </div>
-                    <div className="col-sm-3">
-                        <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/kamalia.jpg" alt="Kamalia Hisham" />
-                            <h4 className="white">Kamalia Hisham</h4>
-                            <p className="text-muted">Corresponding Secretary</p>
-                        </div>
-                    </div>
-                    <div className="col-sm-3">
-                        <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/imran.jpg" alt="Imran Anoar" />
-                            <h4 className="white">Imran Anoar</h4>
-                            <p className="text-muted">Treasurer (I)</p>
-                        </div>
-                    </div>
-                    <div className="col-sm-3">
-                        <div className="team-member">
-                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/que.jpg" alt="Faruq Qawiem" />
-                            <h4 className="white">Faruq Qawiem</h4>
-                            <p className="text-muted">Treasurer (II)</p>
+                            <img className="mx-auto rounded-circle" src="https://vu-taubetapi.github.io/static/img/officers/ali.jpg" alt="Ali Yazdani" />
+                            <h4 className="white">Ali Yazdani</h4>
+                            <p className="text-muted">Treasurer</p>
                         </div>
                     </div>
                 </div>
